@@ -1,4 +1,4 @@
-# MFSIM Telemetry Simulator
+# Telemetry Simulator
 
 **Candidato:** Danilo Machuca
 **Vaga:** Estágio em MS-Sim
@@ -60,7 +60,7 @@ Os instrumentos utilizam mapeamento não linear calibrado manualmente para repre
 Os dados são armazenados em:
 
 ```
-C:\MFSIM DADOS\dados.json
+C:\DADOS\dados.json
 ```
 
 O arquivo é criado automaticamente caso não exista.
