@@ -1,8 +1,5 @@
 # Telemetry Simulator
 
-**Candidato:** Danilo Machuca
-**Vaga:** Estágio em MS-Sim
-
 ---
 
 ## 📌 Visão Geral
